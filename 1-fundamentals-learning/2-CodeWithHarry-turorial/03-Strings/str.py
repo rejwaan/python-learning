@@ -1,4 +1,5 @@
 # strings
+# strings are immutable
 
 # name = "rejo"
 # print(name)

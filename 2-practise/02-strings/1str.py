@@ -49,3 +49,4 @@ if "Love" not in txt:
 
 txt = "A string"
 print("this" not in txt)  # true
+
